@@ -1,5 +1,6 @@
 ;Nome: Gabriel Sol da Silva  NUSP: 9807486
-;Nome:     NUSP:  
+;Nome: Diogo Barboza de Souza    NUSP: 12745657
+;Nome:     NUSP:
 
 jmp main
 ;Mensagens armazenadas em variaves
